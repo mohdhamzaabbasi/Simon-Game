@@ -1,0 +1,70 @@
+#out
+{
+    height: 550px;
+    width: 550px;
+    margin: auto;   
+}
+#head1
+{
+    text-align: center;
+}
+#head2
+{
+    text-align: center;
+}
+#in1
+{
+    height: 200px;
+    width: 450px;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+#in2
+{
+    height: 200px;
+    width: 450px;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+#box1
+{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 5px solid black;
+    margin-right: 25px;
+    border-radius: 35px;
+    background-color: red;
+}
+#box2
+{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 5px solid black;
+    margin-left: 25px;
+    border-radius: 35px;
+    background-color: green;
+}
+#box3
+{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 5px solid black;
+    margin-right: 25px;
+    border-radius: 35px;
+    background-color: blue;
+}
+#box4
+{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 5px solid black;
+    margin-left: 25px;
+    border-radius: 35px;
+    background-color: yellow;
+}
