@@ -1,4 +1,4 @@
 # Simon-Game
 
 # Creater
-Mohd Hamza Abbasi
+Mohd Hamza Abbasi.
