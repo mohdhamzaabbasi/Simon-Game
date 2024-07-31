@@ -38,7 +38,7 @@ function flsh(x)
           }, "100");
     }
 }
-document.addEventListener("touch",function ()
+document.addEventListener("keypress",function ()
 {
     if(flag==0)
     {
